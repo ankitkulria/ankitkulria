@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @ankitkulria
-- I'm beginner and learning web development from basics. I'm a student.
-- 👀 I’m interested in WEB DEVELOPMENT
-- 🌱 I’m currently learning WEB DEVELOPMENT
-- 💞️ I’m looking to collaborate on ...
+- I'm beginner and learning web development from basics. I'm a student of Computer Science.
+- 👀 I’m interested in JAVA
+- 🌱 I’m currently learning Java backend devlopment
+- 💞️ I’m looking to collaborate on Java Backend
 - 📫 How to reach me kulriaankit25@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
 <!---
