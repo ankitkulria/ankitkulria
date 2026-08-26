@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ankitkulria
 - I'm beginner and learning web development from basics. I'm a student of Computer Science.
-- 👀 I’m interested in JAVA
+- 👀 I’m interested in JAVA/ SPRINGBOOT
 - 🌱 I’m currently learning Java backend devlopment
-- 💞️ I’m looking to collaborate on Java Backend
+- 💞️ I’m looking for the opportunities as Java Backend Intern/ Developer.
 - 📫 How to reach me kulriaankit25@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
